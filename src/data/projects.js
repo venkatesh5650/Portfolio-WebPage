@@ -1,28 +1,30 @@
 export const projects = [
   {
     id: 1,
-    name: "NxtMart – Full Stack E-Commerce Platform",
-    tagline: "A complete full-stack online grocery shopping application",
+    name: "Multi-Tenant Workforce Management Platform",
+    tagline:
+      "A scalable, role-based human resource platform for modern organizations",
     techStack:
-      "HTML, CSS, Bootstrap, JavaScript, React JS, Node.js, Express.js, SQLite",
+      "React, Styled-Components, Node.js, Express.js, MySQL, JWT Authentication",
     description:
-      "Developed a full-stack e-commerce platform using React for the frontend and Node.js with Express for the backend, with SQLite as the database. Implemented key features such as user authentication, product listing, secure cart management, and real-time cart total calculation. Users can add, update, and remove products seamlessly. This project strengthened my skills in API development, responsive UI design, and database integration.",
-    liveLink: "https://frontend-nxt-mart-ctio.vercel.app/",
-    githubLink: "https://github.com/venkatesh5650/NxtMartFB",
-    type: "Full Stack"
+      "Built a production-grade HR management platform that streamlines employee lifecycle management including onboarding, role-based access, approvals, team structuring, and audit logging. Implemented secure authentication with JWT, granular role-based permissions (Admin, HR, Manager, Employee), and RESTful APIs for reliable data operations. Designed a responsive, component-driven frontend with React and optimized backend queries for performance and scalability. The system supports real-time approval workflows, centralized employee data management, and structured logging for traceability, closely simulating enterprise HR systems used in real organizations.",
+    liveLink: "https://hrms-app-five.vercel.app/",
+    githubLink: "https://github.com/venkatesh5650/hrms-app",
+    type: "Full Stack",
   },
   {
     id: 2,
-    name: "Human Resource Management System (HRMS)",
-    tagline:
-      "A full-stack HR management solution for efficient employee data handling",
-    techStack: "HTML, CSS, Bootstrap, JavaScript, Node.js, Express.js, MySQL",
+    name: "NxtMart – Order Management Platform",
+    tagline: "A scalable, full-stack e-commerce and order management system",
+    techStack:
+      "React, Styled-Components, Node.js, Express.js, SQLite, JWT Authentication",
     description:
-      "Developed a full-stack HR management system to manage employee records, attendance, and roles through a centralized platform. The system digitizes manual HR processes by providing secure authentication, role-based access, and complete CRUD operations. This project helped me gain strong experience in database design, backend API development, and full-stack integration.",
-    liveLink: "https://hrms-app-five.vercel.app/",
-    githubLink: "https://github.com/venkatesh5650/hrms-app",
-    type: "Full Stack"
+      "Built a full-stack e-commerce and order management platform that supports user authentication, product browsing, cart management, and order processing workflows. Implemented secure JWT-based authentication, RESTful APIs for products, carts, and orders, and real-time cart total updates. Designed a responsive, component-driven React frontend and integrated it with a Node.js and Express backend using SQLite for persistent storage. Focused on clean API design, state management, and performance optimization to simulate a production-ready online retail system.",
+    liveLink: "https://frontend-nxt-mart-ctio.vercel.app/",
+    githubLink: "https://github.com/venkatesh5650/NxtMartFB",
+    type: "Full Stack",
   },
+
   {
     id: 3,
     name: "Jobby App – Job Search Platform",
@@ -33,7 +35,7 @@ export const projects = [
       "Developed a responsive job-search frontend using React with a clean and intuitive user interface. Implemented job listings, filtering, and detailed job views to deliver a smooth user experience. Focused on performance optimization, mobile-first design, and user-friendly navigation. This project strengthened my skills in dynamic UI rendering and real-time data handling.",
     liveLink: "https://kvjobbyapp.ccbp.tech",
     githubLink: "https://github.com/venkatesh5650/JobbyApp",
-    type: "Frontend"
+    type: "Frontend",
   },
   {
     id: 4,
@@ -45,6 +47,6 @@ export const projects = [
       "Developed a responsive video streaming frontend using React with Context API for centralized state management. Implemented video listing, detailed video views, and theme-based UI for a seamless experience. Used Styled Components for modular, scalable, and maintainable styling. This project enhanced my understanding of state management, component-driven architecture, and modern CSS-in-JS practices.",
     liveLink: "https://kvnxtwatch.ccbp.tech/",
     githubLink: "https://github.com/venkatesh5650/NxtWatch-App",
-    type: "Frontend"
-  }
+    type: "Frontend",
+  },
 ];
