@@ -10,7 +10,7 @@ function Education() {
         <div className="card shadow-sm education-card">
           <div className="card-body">
             <h5 className="card-title">
-              Bachelor of Commerce (B.Com(CA))
+              Bachelor of Commerce B.Com(CA)
             </h5>
             <h6 className="card-subtitle mb-2 text-muted">
               Specialization: Computer Applications
