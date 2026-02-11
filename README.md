@@ -5,7 +5,7 @@ A personal portfolio website showcasing my skills, projects, and experience as a
 ---
 
 ## 🚀 Live Portfolio
-👉 https://your-portfolio-link.vercel.app
+👉 https://portfolio-web-page-murex.vercel.app
 
 ---
 
@@ -38,12 +38,12 @@ Each project focuses on real-world workflows, clean architecture, and scalable d
 ---
 
 ## 📄 Resume
-👉 [Download Resume](./public/Venkatesh_Karthan_Resume.pdf)
+👉 [Download Resume](./public/Venkatesh_Backend_Focused_Full_Stack_Developer.pdf)
 
 ---
 
 ## 🔗 Links
-- Portfolio: https://your-portfolio-link.vercel.app
+- Portfolio: https://portfolio-web-page-murex.vercel.app
 - GitHub: https://github.com/venkatesh5650
 - LinkedIn: https://www.linkedin.com/in/karthan-venkatesh/
 
