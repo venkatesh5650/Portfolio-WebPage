@@ -10,11 +10,7 @@ function Education() {
         <div className="card shadow-sm education-card">
           <div className="card-body">
             <h5 className="card-title">
-<<<<<<< HEAD
               Bachelor of Commerce (Computer Applications)
-=======
-              Bachelor of Commerce B.Com(CA)
->>>>>>> 81da49972bac7f90f795a68103083aec2f4a0b4e
             </h5>
 
             <p className="text-muted mb-2">
