@@ -5,8 +5,9 @@ function Footer() {
         <span className="text-muted">
           © {new Date().getFullYear()} Venkatesh Karthan. All rights reserved.
         </span>
+
         <span className="text-muted small">
-          Built with React, Bootstrap, and continuous learning.
+          Built with React & Bootstrap · Focused on clean code and continuous improvement.
         </span>
       </div>
     </footer>

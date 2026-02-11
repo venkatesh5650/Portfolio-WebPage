@@ -1,29 +1,36 @@
 function Education() {
   return (
-    <section className="section bg-light">
+    <section className="section bg-light" id="education">
       <div className="container">
         <h2 className="section-title mb-3">Education</h2>
         <p className="section-subtitle mb-4">
-          My academic background and formal education.
+          Academic foundation supporting my software development career.
         </p>
 
         <div className="card shadow-sm education-card">
           <div className="card-body">
             <h5 className="card-title">
-              Bachelor of Computer Applications (BCA)
+              Bachelor of Commerce (Computer Applications)
             </h5>
-            <h6 className="card-subtitle mb-2 text-muted">
-              Specialization: Computer Applications
-            </h6>
-            <p className="mb-1">
-              <strong>College:</strong> Government City College Nayapul,
-              Hyderabad
+
+            <p className="text-muted mb-2">
+              Government City College, Nayapul — Hyderabad
             </p>
-            <p className="mb-1">
-              <strong>Year of Completion:</strong> August 2024
+
+            <p className="mb-2">
+              <strong>Duration:</strong> 2021 – 2024
             </p>
+
+            <p className="mb-2">
+              <strong>Focus Areas:</strong> Computer Applications, Programming
+              Fundamentals, Web Technologies, Databases
+            </p>
+
             <p className="mb-0">
-              <strong>Location:</strong> Hyderabad, India
+              Alongside commerce fundamentals, this program provided exposure to
+              computer applications and programming concepts, which motivated me
+              to pursue a career in full-stack web development through practical
+              projects and continuous learning.
             </p>
           </div>
         </div>
